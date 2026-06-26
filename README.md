@@ -2,7 +2,7 @@
 
 # LIBRA
 
-<img src="./assets/libraScreenshot.png" width="100%" alt="Cherry Blossom Banner"/>
+<img src="./assets/LibraScreenshot.png" width="100%" alt="Cherry Blossom Banner"/>
 
 A 2D top-down tank game where you traverse multiple randomly generated maps.
 </div>
