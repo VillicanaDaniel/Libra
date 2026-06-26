@@ -6,10 +6,11 @@
 
 A 2D top-down tank game where you traverse multiple randomly generated maps.
 
+</div>
+---
+<div align="center">
 <img src="./assets/LibraScreenshot.png" width="60%" alt="Cherry Blossom Banner"/>
 </div>
-
----
 # Controls
 ## Keyboard
 ### Attract Controls
