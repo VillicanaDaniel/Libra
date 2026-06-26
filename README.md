@@ -43,7 +43,8 @@ Right Thumbstick	= Aim \
 A	= Shoot \
 B	= Respawn \
 Start	= Pause \
-Debug Controls \
+
+## Debug Controls
 P	= Pause \
 T	= Slow Motion \
 Y = Speed Up \
