@@ -1,0 +1,44 @@
+<GameConfig
+	
+    startLevel="OuterCourtyard"
+    windowAspect="2.0"
+    isFullscreen="false"
+	
+	currentMapIndex = "0"
+	gameOverCounter = "2.f"
+	isVictory = "false"
+	numTilesinViewVertically = "8.f"
+	
+	playerphysicsRadius = "0.3f"
+	playercosmeticRadius = "0.5f"
+	playerTurretOrientation = "0.f"
+	playertankTurnSpeed = "240.f"
+	playerturretTurnSpeed = "360.f"
+	playermaxSpeed = "2.f"
+	playerfireCooldown = "0.2f"
+	playertimeSinceLastShot = "0.f"
+	playerisFiring = "false"
+	
+	LeocosmeticRadius = "0.4f"
+	LeophysicsRadius = "0.35f"
+	LeomoveSpeed = "0.5f"
+	LeoshootCooldown = "2.5f"
+	LeoturnRate = "90.f"
+	LeotimeSinceLastShot = "0.f"
+	LeoroamCooldown = "0.f"
+	LeogoalOrientationDegrees = "0.f"
+	
+	ScorpiocosmeticRadius = "0.35f"
+	ScorpiophysicsRadius = "0.35f"
+	ScorpioturnRate = "60.f"
+	ScorpiofireCooldown = "0.3f"
+	ScorpiotimeSinceLastShot = "0.f"
+	
+	AriescosmeticRadius = "0.4f"
+	AriesphysicsRadius = "0.35f"
+	AriesturnRate = "90.f"
+	
+	tankExplosionSize = "0.5f"
+	scorpioExplosionSize = "0.75f"
+    
+/>

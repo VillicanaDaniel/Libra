@@ -1,0 +1,45 @@
+<TileDefinitions>
+
+	<TileDefinition
+		name="GRASS"
+		spriteCoords="1,0"
+		isSolid="false"
+		tint="255,255,255,255" />
+
+	<TileDefinition
+		name="STONE"
+		spriteCoords="1,2"
+		isSolid="true"
+		tint="255,255,255,255" />
+
+	<TileDefinition
+		name="STONE_FLOOR"
+		spriteCoords="3,6"
+		isSolid="false"
+		tint="150,150,150,150" />
+
+	<TileDefinition
+		name="MUD"
+		spriteCoords="5,2"
+		isSolid="false"
+		tint="255,255,255,255" />
+
+	<TileDefinition
+		name="METAL"
+		spriteCoords="5,6"
+		isSolid="true"
+		tint="255,255,255,255" />
+
+	<TileDefinition
+		name="SPAWN_TILE"
+		spriteCoords="0,7"
+		isSolid="false"
+		tint="255,255,255,255" />
+
+	<TileDefinition
+		name="EXIT_TILE"
+		spriteCoords="1,7"
+		isSolid="false"
+		tint="255,255,255,255" />
+
+</TileDefinitions>
