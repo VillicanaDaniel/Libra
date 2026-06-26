@@ -23,6 +23,10 @@ W	 = Move Up \
 A	= Move Left \
 S	= Move Down \
 D	= Move Right \
+I = Aim Up \
+J = Aim Left \
+K = Aim Down \
+L = Aim Right \
 Space	= Shoot \
 N	= Respawn \
 P	= Pause \
@@ -35,6 +39,7 @@ B	= Exit Application
 
 ### In-Game Controls
 Left Thumbstick	= Move / Turn \
+Right Thumbstick	= Aim \
 A	= Shoot \
 B	= Respawn \
 Start	= Pause \
